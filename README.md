@@ -75,7 +75,7 @@ We support the following features:
 | :-----:| :-----:| :-----:| :-----:| :-----:|
 | Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :x:|
 | iOS | Metal | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Windows | DirectX11 / Directx12 | :heavy_check_mark: | :heavy_check_mark: | :x:|
+| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :x:|
 
 ## Demo Installation Guide
 
