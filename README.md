@@ -75,7 +75,7 @@ We support the following features:
 | :-----:| :-----:| :-----:| :-----:| :-----:|
 | Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :x:|
 | iOS | Metal | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Windows | DirectX11 | :heavy_check_mark: | :heavy_check_mark: | :x:|
+| Windows | DirectX11 / Directx12 | :heavy_check_mark: | :heavy_check_mark: | :x:|
 
 ## Demo Installation Guide
 
@@ -127,5 +127,5 @@ On the bottom right corner of the Content Browser, press View Options and make s
 
 
 ## Contact
-[supportmadrid@nexplayer.com](mailto:supportmadrid@nexplayer.com)
+[support.madrid@nexplayer.com](mailtosupport.madrid@nexplayer.com)
 <br>+34 914 184 356
