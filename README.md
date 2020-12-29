@@ -81,14 +81,12 @@ We support the following features:
 
 ### 1) Plugin Import
 
-<p> Make sure that your Unreal Engine Project is closed. </p>
-<p> Open the project's root directory (the one that includes the .uproject): </p>
-<img  src="Source/Images/QuickStart/Step_01.PNG" width="80%" height="80%" alt="Quickstart_Step_1" align="center"></img>
+<p> Close your Unreal project if it is open. </p>
 
-<p> Create a Plugins folder if you don't have it, and unzip the NexPlayerUnreal SDK inside of it: </p>
+<p> Unzip the NexPlayerUnreal SDK (NexPlayer Demo Project) and copy the folder <i>NexPlayerUnreal/Plugins/NexPlayerUnreal</i> (NexPlayer Unreal Plugin) inside of the Plugins folder of your project. <br/> If you don't have a Plugins folder in your project, create one: </p>
 <img  src="Source/Images/QuickStart/Step_02.PNG" width="80%" height="80%" alt="Quickstart_Step_2" align="center"></img>
 
-<p> Open the  project, and open the Plugins Window:</p>
+<p> Open the project and open the Plugins Window:</p>
 <img  src="Source/Images/QuickStart/Step_03.png" width="80%" height="80%" alt="Quickstart_Step_3" align="center"></img>
 
 <p> Scroll all the way down to the Project section and under the Video category, select NexPlayerUnreal and check Enabled: </p>
