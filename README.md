@@ -109,9 +109,6 @@ On the bottom right corner of the Content Browser, press View Options and make s
 <p> Add the BP_NexPlayer Blueprint located in Content/Blueprints to the scene: </p>
 <img  src="Source/Images/QuickStart/Step_08.png" width="80%" height="80%" alt="Quickstart_Step_8" align="center"></img><br>
 
-<p> Add the BP_NexPlayer Blueprint located in Content/Blueprints to the scene: </p>
-<img  src="Source/Images/QuickStart/Step_08.png" width="80%" height="80%" alt="Quickstart_Step_8" align="center"></img><br>
-
 <p> Select the bP_NexPlayer Blueprint and Set Stream URL in the Details tab to select the video content url: </p>
 <img  src="Source/Images/QuickStart/Step_09.png" width="80%" height="80%" alt="Quickstart_Step_9" align="center"></img><br>
 
