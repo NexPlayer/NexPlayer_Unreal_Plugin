@@ -84,16 +84,20 @@ We support the following features:
 <p> Close your Unreal project if it is open. </p>
 
 <p> Unzip the NexPlayerUnreal SDK (NexPlayer Demo Project) and copy the folder <i>NexPlayerUnreal/Plugins/NexPlayerUnreal</i> (NexPlayer Unreal Plugin) inside of the Plugins folder of your project. <br/> If you don't have a Plugins folder in your project, create one: </p>
-<img  src="Source/Images/QuickStart/Step_02.PNG" width="80%" height="80%" alt="Quickstart_Step_2" align="center"></img>
+<img  src="Source/Images/QuickStart/Step_02.PNG" width="80%" height="80%" alt="Quickstart_Step_2" align="center"></img><br>
+
 
 <p> Open the project and open the Plugins Window:</p>
-<img  src="Source/Images/QuickStart/Step_03.png" width="80%" height="80%" alt="Quickstart_Step_3" align="center"></img>
+<img  src="Source/Images/QuickStart/Step_03.png" width="80%" height="80%" alt="Quickstart_Step_3" align="center"></img><br>
 
-<p> Scroll all the way down to the Project section and under the Video category, select NexPlayerUnreal and check Enabled: </p>
-<img  src="Source/Images/QuickStart/Step_04.png" width="80%" height="80%" alt="Quickstart_Step_4" align="center"></img>
+
+<p> Scroll all the way down to the Project section and under the Video category, select NexPlayerUnreal and check Enabled:</p>
+<img  src="Source/Images/QuickStart/Step_04.png" width="80%" height="80%" alt="Quickstart_Step_4" align="center"></img><br>
+
 
 <p> A yellow prompt will pop-up asking you to restart the editor, press the Restart Now button: </p>
-<img  src="Source/Images/QuickStart/Step_05.png" width="80%" height="80%" alt="Quickstart_Step_5" align="center"></img>
+<img  src="Source/Images/QuickStart/Step_05.png" width="80%" height="80%" alt="Quickstart_Step_5" align="center"></img><br>
+
 
 <p> Unreal Engine will compile the plugin and open the project, with the plugin fully imported. </p>
 
