@@ -110,7 +110,7 @@ We support the following features:
 On the bottom right corner of the Content Browser, press View Options and make sure Show Plugin Content: </p>
 <img  src="Source/Images/QuickStart/Step_07.png" width="80%" height="80%" alt="Quickstart_Step_7" align="center"></img><br>
 
-<p> Add the BP_NexPlayer Actor located in Content/Blueprints to the scene: </p>
+<p> Add the BP_NexPlayer Actor located in NexPlayerUnreal Content/Blueprints to the scene: </p>
 <img  src="Source/Images/QuickStart/Step_08.png" width="80%" height="80%" alt="Quickstart_Step_8" align="center"></img><br>
 
 <p> Select the BP_NexPlayer Actor and set the stream URL in the Details tab: </p>
