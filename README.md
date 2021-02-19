@@ -92,24 +92,24 @@ We support the following features:
 <p> Scroll all the way down to the Project section and under the Video category, select NexPlayerUnreal and check Enabled: </p>
 <img  src="Source/Images/QuickStart/Step_04.png" width="80%" height="80%" alt="Quickstart_Step_4" align="center"></img>
 
-<p> A yellow prompt will pop-up asking you to restart the editior, press the Restart Now button: </p>
+<p> A yellow prompt will pop-up asking you to restart the editor, press the Restart Now button: </p>
 <img  src="Source/Images/QuickStart/Step_05.png" width="80%" height="80%" alt="Quickstart_Step_5" align="center"></img>
 
 <p> Unreal Engine will compile the plugin and open the project, with the plugin fully imported. </p>
 
 ### 2) Video Setup
 
-<p> Add to the scene some basic Actor where the rendering will ocur. It needs to have the uvs properly set. We recomend a Plane or Shape cube (the regular primitive cube won't work because of it's UVs): </p>
+<p> Add to the scene some basic actor where the rendering will occur. It needs to have the UVs properly set. It's recommended to use a Plane or Shape cube (the regular primitive cube won't work because of it's UVs): </p>
 <img  src="Source/Images/QuickStart/Step_06.png" width="80%" height="80%" alt="Quickstart_Step_6" align="center"></img><br>
 
-<p> Feel free to scale the Actor to match the desired video screen ratio (generally 16:9).
+<p> Scale the Actor to match the desired video screen ratio (generally 16:9).
 On the bottom right corner of the Content Browser, press View Options and make sure Show Plugin Content: </p>
 <img  src="Source/Images/QuickStart/Step_07.png" width="80%" height="80%" alt="Quickstart_Step_7" align="center"></img><br>
 
 <p> Add the BP_NexPlayer Blueprint located in Content/Blueprints to the scene: </p>
 <img  src="Source/Images/QuickStart/Step_08.png" width="80%" height="80%" alt="Quickstart_Step_8" align="center"></img><br>
 
-<p> Select the bP_NexPlayer Blueprint and Set Stream URL in the Details tab to select the video content url: </p>
+<p> Select the bP_NexPlayer Blueprint and set the stream URL in the Details tab: </p>
 <img  src="Source/Images/QuickStart/Step_09.png" width="80%" height="80%" alt="Quickstart_Step_9" align="center"></img><br>
 
 <p> Add one element to Target Actors in the Details tab and reference the Actor you added before: </p>
