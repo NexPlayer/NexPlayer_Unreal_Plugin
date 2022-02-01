@@ -8,10 +8,11 @@
  <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
-NexPlayer™ for Unreal Engine is a cross-platform video streaming player for Unreal Engine apps that supports video playback across all Android and Windows devices. 
-NexPlayer's Unreal video plugin is the only player supporting HLS & DASH streaming on **all Android & Windows devices.**
+NexPlayer™ for Unreal Engine is the only video streaming player that supports **HLS & DASH streaming** on **Android** and **Windows** devices.
+The NexPlayer team is already working towards making it available for **more platforms!**
 
-This repository contains the NexPlayer™ Unreal Engine video streaming player plugin feature list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/).
+
+This repository contains the NexPlayer™ for Unreal Engine video streaming player's feature list, as well as an installation guide. If you want to try a demo, please contact us on our [website](https://nexplayersdk.com/unreal-player-sdk-demo/).
 
 ## Table of Contents
 
@@ -28,11 +29,11 @@ This repository contains the NexPlayer™ Unreal Engine video streaming player p
  <img  src="Source/Gifs/Fortnite_450p.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video plugin allows the introduction of new exciting levels within your Unreal Engine projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video player plugin allows the introduction of new exciting levels within your Unreal Engine projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
 
 ## Features
 
-The NexPlayer™ for Unreal Engine video streaming player plugin contains the latest features. As our Unreal Engine video plugin is developed entirely in-house, we can implement any desired functionalities. 
+The NexPlayer™ for Unreal Engine video streaming player is developed entirely **in-house**, therefore, we can implement any desired functionalities. 
 
 We support the following features:
 
@@ -46,6 +47,7 @@ We support the following features:
        <ul>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
        <li>Server-Side & Client-Side Ad Insertion</li>
+       <li>360 Video Playback and Virtual Reality (VR)</li>
        <li>Windows Editor (C++ & Blueprint)</li>
        <li>Up to 8K (UHD) Resolution</li>
        <li>Up to 60 Frames Per Second (FPS)</li>
