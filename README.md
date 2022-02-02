@@ -9,7 +9,7 @@
 </p>
 
 NexPlayer™ for Unreal Engine is a powerful cross-platform video streaming player that supports **HLS & DASH streaming** on **Android** and **Windows** devices.
-The NexPlayer team is already working towards making it available for **more platforms!**
+The NexPlayer team is working to make it available for **more platforms!**
 
 
 This repository contains the NexPlayer™ for Unreal Engine video streaming player's feature list, as well as an installation guide. If you want to try a demo, please contact us on our [website](https://nexplayersdk.com/unreal-player-sdk-demo/).
