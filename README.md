@@ -60,7 +60,6 @@ We support the following features:
      </td>
      <td>
        <ul>
-        <li>Auto Playback</li>
         <li>Open Video Content</li>
         <li>Play / Pause</li>
         <li>Stop</li>
