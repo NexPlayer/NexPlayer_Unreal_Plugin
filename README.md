@@ -33,7 +33,7 @@ This repository contains the NexPlayer™ for Unreal Engine video streaming play
 
 ## Features
 
-The NexPlayer™ for Unreal Engine is developed entirely **in-house**, making it fully customizable to be able to implement any desired functionality.
+The NexPlayer™ for Unreal Engine video streaming player is developed entirely **in-house**, making it fully customizable to be able to implement any desired functionality.
 
 We support the following features:
 
