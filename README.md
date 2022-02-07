@@ -8,7 +8,7 @@
  <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
-NexPlayer™ for Unreal Engine is a cross-platform video streaming player that supports **HLS & DASH streaming** on **Android** and **Windows** devices.
+NexPlayer™ for Unreal Engine is a cross-platform video streaming player that supports **HLS & DASH streaming** on **Android** and **Windows**.
 NexPlayer will be available for **more platforms** soon!
 
 
