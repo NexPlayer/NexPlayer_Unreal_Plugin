@@ -29,11 +29,11 @@ This repository contains the NexPlayer™ for Unreal Engine video streaming play
  <img  src="Source/Gifs/Fortnite_450p.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video player plugin allows the introduction of new exciting levels within your Unreal Engine projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video player plugin allows the introduction of new exciting experiences within your Unreal Engine projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
 
 ## Features
 
-The NexPlayer™ for Unreal Engine is developed entirely **in-house**. Therefore, it is fully customizable and we can implement any desired functionalities. 
+The NexPlayer™ for Unreal Engine is developed entirely **in-house**, making it fully customizable to be able to implement any desired functionality.
 
 We support the following features:
 
