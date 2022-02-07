@@ -12,7 +12,7 @@ NexPlayer™ for Unreal Engine is a cross-platform video streaming player that s
 NexPlayer will be available for **more platforms** soon!
 
 
-This repository contains the NexPlayer™ for Unreal Engine video streaming player's feature list, as well as an installation guide. If you want to try a demo, please contact us on our [website](https://nexplayersdk.com/unreal-player-sdk-demo/).
+This repository contains the NexPlayer™ for Unreal Engine video streaming player's feature list, as well as an installation guide. If you want to try a demo, please contact us on our [website](https://nexplayersdk.com/unreal-player-sdk/).
 
 ## Table of Contents
 
