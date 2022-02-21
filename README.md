@@ -77,6 +77,7 @@ We support the following features:
 | :-----:| :-----:| :-----:| :-----:| 
 | Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | 
+| Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
 
 ## Demo Installation Guide
 
