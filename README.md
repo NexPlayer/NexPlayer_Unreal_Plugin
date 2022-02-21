@@ -73,10 +73,10 @@ We support the following features:
 
 ## Supported Platforms
 
-| Platform | Supported Graphics APIs | HLS | DASH | Local|
-| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :x:|
-| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :x:|
+| Platform | Supported Graphics APIs | HLS | DASH | 
+| :-----:| :-----:| :-----:| :-----:| 
+| Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
+| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | 
 
 ## Demo Installation Guide
 
