@@ -14,6 +14,8 @@ NexPlayer will be available for **more platforms** soon!
 
 This repository contains the NexPlayer™ for Unreal Engine video streaming player's feature list, as well as an installation guide. If you want to try a demo, please contact us on our [website](https://nexplayersdk.com/unreal-player-sdk/).
 
+Supported **UNREAL ENGINE VERSIONS:** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27
+
 ## Table of Contents
 
 * **[Features](#features)**  
