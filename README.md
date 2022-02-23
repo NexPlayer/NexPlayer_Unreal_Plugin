@@ -5,7 +5,7 @@
 </br>
 
 <p align="center">
- <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+ <img  src="Source/Gifs/Fortnite_450p.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
 NexPlayer™ for Unreal Engine is a cross-platform video streaming player that supports **HLS & DASH streaming** on **Android** and **Windows**.
@@ -28,7 +28,7 @@ Supported **UNREAL ENGINE VERSIONS:** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27
 
 
 <p align="center">
- <img  src="Source/Gifs/Fortnite_450p.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+ <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video player plugin allows the introduction of new exciting experiences within your Unreal Engine projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
