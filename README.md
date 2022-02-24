@@ -31,7 +31,7 @@ Supported **UNREAL ENGINE VERSIONS:** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27
  <br> 
 
 <p align="center">
- <img  src="Source/Gifs/TV show GIF.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+ <img  src="Source/Gifs/Edited tvshow GIF.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal Engine video player plugin allows the introduction of new exciting experiences within your Unreal Engine projects. With our plugin, you can use in-game actions and objects to modify video content.</p>
