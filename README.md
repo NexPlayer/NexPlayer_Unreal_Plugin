@@ -5,7 +5,7 @@
 </br>
 
 <p align="center">
- <img  src="Source/Gifs/Fortnite_450p.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+ <img  src="Source/Gifs/Edited Fortnite GIF.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
 
 NexPlayer™ for Unreal Engine is a cross-platform video streaming player that supports **HLS & DASH streaming** on **Android** and **Windows**.
