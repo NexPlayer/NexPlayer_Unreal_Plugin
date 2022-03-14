@@ -51,7 +51,7 @@ We support the following features:
      <td>
        <ul>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
-       <li>Server-Side & Client-Side Ad Insertion</li>
+       <li>Ad Insertion</li>
        <li>360 Video Playback and Virtual Reality (VR)</li>
        <li>Windows Editor (C++ & Blueprint)</li>
        <li>Up to 8K (UHD) Resolution</li>
@@ -69,6 +69,7 @@ We support the following features:
         <li>Play / Pause</li>
         <li>Stop</li>
         <li>Close</li>
+        <li>Loop</li>
        </ul>
      </td>
      </tr>
