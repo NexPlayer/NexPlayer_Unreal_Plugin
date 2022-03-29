@@ -134,5 +134,8 @@ On the bottom right corner of the Content Browser, press View Options and make s
 
 
 ## Contact
-[unreal.support@nexplayer.com](mailtounreal.support@nexplayer.com)
+[unreal.support@nexplayer.com](mailto:unreal.support@nexplayer.com)
 <br>+34 914 184 356
+<br>See you also at trade shows around the world!
+<p align="center">
+ <img  src="Source/Images/GDC.jpg" width="100%" height="100%"></a>
