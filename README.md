@@ -1,5 +1,5 @@
 
-<h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/unreal-player-sdk-demo/" target="_blank"><img  src="https://github.com/NexPlayer/NexPlayer_Unity_Plugin/blob/master/resources/Button%20Demo.png" width="23%" height="10%" alt="Unity video player" align="right"></img></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/unreal-player-sdk-demo/" target="_blank"><img  src="https://github.com/NexPlayer/NexPlayer_Unity_Plugin/blob/master/resources/Button Demo_2.png" width="23%" height="10%" alt="Unity video player" align="right"></img></a>
 <a align=right href="https://nexplayersdk.com/unreal-player-sdk-demo/" target="_blank"><img src="Source/Images/Logo_Unreal_Githubnew.png" width="100%" height="100%" ></a>
 </p></h1>
 </br>
