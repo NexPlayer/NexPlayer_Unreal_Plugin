@@ -139,7 +139,7 @@ On the bottom right corner of the Content Browser, press View Options and make s
 <br>See you also at trade shows around the world!
 <p align="center">
  <img  src="Source/Images/GDC.jpg" width="50%" height="50%"></a>
- 
+</p> 
 <br>
 <sub><sup>Media Player plugin for Unreal Engine, Stream live performances and media into your Unreal project, HLS and DASH streaming within Unreal Engine, Unreal Engine Video Streaming, UE4 live streaming, UE5 live streaming.</sub><sup>
  
