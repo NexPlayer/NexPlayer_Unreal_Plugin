@@ -7,6 +7,7 @@
 <p align="center">
  <img  src="Source/Gifs/Edited Fortnite GIF.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
 </p>
+<br>
 
 NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android** and **Windows** Unreal apps.
 NexPlayer will be available for **more platforms** soon, stay tuned.
@@ -14,7 +15,7 @@ NexPlayer will be available for **more platforms** soon, stay tuned.
 
 This repository contains the NexPlayer™ for Unreal feature list as well as an installation guide. If you want to try a demo and see the full documentation, please contact us at our [website](https://nexplayersdk.com/unreal-player-sdk/).
 
-Supported **UNREAL ENGINE VERSIONS:** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Unreal Engine 5.
+Supported **UNREAL ENGINE VERSIONS:** UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Unreal Engine 5.
 
 <p align="center">
  <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
