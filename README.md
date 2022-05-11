@@ -14,7 +14,7 @@ NexPlayer will be available for **more platforms** soon, stay tuned.
 
 This repository contains the NexPlayer™ for Unreal feature list as well as an installation guide. If you want to try a demo and see the full documentation, please contact us at our [website](https://nexplayersdk.com/unreal-player-sdk/).
 
-Supported **UNREAL ENGINE VERSIONS:** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27, UE5/Unreal Engine 5
+Supported **UNREAL ENGINE VERSIONS:** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Unreal Engine 5.
 
 <p align="center">
  <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
@@ -143,5 +143,5 @@ On the bottom right corner of the Content Browser, press View Options and make s
  <img  src="Source/Images/GDC.jpg" width="50%" height="50%"></a>
 </p> 
 <br>
-<sub><sup>Media Player plugin for Unreal Engine, Stream live performances and media into your Unreal project, HLS and DASH streaming within Unreal Engine, Unreal Engine Video Streaming, UE4 live streaming, UE5 live streaming.</sub><sup>
+<sub><sup>Media Player plugin for Unreal Engine, Stream live performances and media into your Unreal project, HLS and DASH streaming within Unreal Engine, Unreal Engine Video Streaming, UE4 live streaming, UE5 live streaming, Electra Media Player, Electra Media Player for Unreal Engine, Media player plugin for Unreal, UE4 Electra Media Player, UE4, Unreal Engine 4, UE5.</sub><sup>
  
