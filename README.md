@@ -68,8 +68,10 @@ We support the following features:
         <li>Open Video Content</li>
         <li>Play / Pause</li>
         <li>Stop</li>
-        <li>Close</li>
         <li>Loop</li>
+        <li>AutoPlay</li>
+        <li>Mute</li>
+        <li>Close</li>
        </ul>
      </td>
      </tr>
