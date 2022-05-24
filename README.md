@@ -18,7 +18,7 @@ Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Un
 
 <br>
 <p align="center">
- <img  src="Source/Gifs/2020_11_17.gif" width="200%" height="200%" alt="Cube Demo" align="center"></img>
+ <img  src="Source/Gifs/2020_11_17.gif" width="600px" height="319px" alt="Cube Demo" align="center"></img>
 </p>
 <br>
 
@@ -32,7 +32,7 @@ Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Un
  
  <br> 
 
-<p align="center"><img  src="Source/Gifs/Edited tvshow GIF.gif" width="100%" height="100%" alt="Cube Demo" align="center"></img>
+<p align="center"><img  src="Source/Gifs/Edited tvshow GIF.gif" width="600px" height="319px" alt="Cube Demo" align="center"></img>
 </p>
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal video player plugin allows the introduction of new exciting use cases inside your Unreal games, such as concerts, video items related to the game or new metaverse experiences. </p>
