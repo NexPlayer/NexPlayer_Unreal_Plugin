@@ -4,8 +4,7 @@
 </p></h1>
 </br>
 
-<p align="center">
- <img  src="Source/Gifs/Edited Fortnite GIF.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+<p align="center"><img  src="Source/Gifs/Edited Fortnite GIF.gif" width="100%" height="100%" alt="Cube Demo" align="center"></img>
 </p>
 <br>
 
@@ -15,11 +14,13 @@ NexPlayer will be available for **more platforms** soon, stay tuned.
 
 This repository contains the NexPlayer™ for Unreal feature list as well as an installation guide. If you want to try a demo and see the full documentation, please contact us at our [website](https://nexplayersdk.com/unreal-player-sdk/).
 
-Supported **UNREAL ENGINE VERSIONS:** UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Unreal Engine 5.
+Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Unreal Engine 5.
 
+<br>
 <p align="center">
- <img  src="Source/Gifs/2020_11_17.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+ <img  src="Source/Gifs/2020_11_17.gif" width="200%" height="200%" alt="Cube Demo" align="center"></img>
 </p>
+<br>
 
 ## Table of Contents
 
@@ -31,8 +32,7 @@ Supported **UNREAL ENGINE VERSIONS:** UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE
  
  <br> 
 
-<p align="center">
- <img  src="Source/Gifs/Edited tvshow GIF.gif" width="80%" height="80%" alt="Cube Demo" align="center"></img>
+<p align="center"><img  src="Source/Gifs/Edited tvshow GIF.gif" width="100%" height="100%" alt="Cube Demo" align="center"></img>
 </p>
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal video player plugin allows the introduction of new exciting use cases inside your Unreal games, such as concerts, video items related to the game or new metaverse experiences. </p>
