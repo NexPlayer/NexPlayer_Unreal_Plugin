@@ -8,7 +8,7 @@
 </p>
 <br>
 
-NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android** and **Windows** Unreal apps.
+NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android**, **HTML5* and **Windows** Unreal apps.
 NexPlayer will be available for **more platforms** soon, stay tuned.
 
 
@@ -86,7 +86,8 @@ We support the following features:
 | :-----:| :-----:| :-----:| :-----:| 
 | Android  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
 | Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | 
-| Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | 
+| Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: |
+| HTML5  | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Demo Installation Guide
 
@@ -144,5 +145,5 @@ On the bottom right corner of the Content Browser, press View Options and make s
  <img  src="Source/Images/GDC.jpg" width="50%" height="50%"></a>
 </p> 
 <br>
-<sub><sup>Android media player plugin for Unreal Engine, Unreal marketplace, Windows media player plugin for Unreal Engine, Media Player plugin for Unreal Engine, Stream live performances and media into your Unreal project, HLS and DASH streaming within Unreal Engine, Unreal Engine Video Streaming, UE4 live streaming, UE5 live streaming, Electra Media Player, Electra Media Player for Unreal Engine, Media player plugin for Unreal, Unreal Engine 4, Unreal web, UE4, Unreal Engine 5, Epic games, Oculus Quest, Oculus Quest 2, Meta Oculus, Gear VR, HTC Vive, Google Cardboard, Daydream, Pico Goblin & Neo, electronic dance music, metaverse, AR, VR, XR, Amazon Interactive Video Service, Amazon IVS Unreal, timed metadata, embed metadata, metadata, ID3 tags, timestamps, Azure PlayFab, Twitch.</sub><sup>
+<sub><sup>Android media player plugin for Unreal Engine, Unreal marketplace, Windows media player plugin for Unreal Engine, Media Player plugin for Unreal Engine, Stream live performances and media into your Unreal project, HLS and DASH streaming within Unreal Engine, Unreal Engine Video Streaming, UE4 live streaming, UE5 live streaming, Electra Media Player, Electra Media Player for Unreal Engine, Media player plugin for Unreal, Unreal Engine 4, Unreal web, UE4, Unreal Engine 5, Epic games, Oculus Quest, Oculus Quest 2, Meta Oculus, Gear VR, HTC Vive, Google Cardboard, Daydream, Pico Goblin & Neo, electronic dance music, metaverse, AR, VR, XR, Amazon Interactive Video Service, Amazon IVS Unreal, timed metadata, embed metadata, metadata, ID3 tags, timestamps, Azure PlayFab, webbrowser, webGL, HTML5, unreal wbe player, unreal html5 video, Twitch.</sub><sup>
  
