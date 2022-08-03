@@ -8,7 +8,7 @@
 </p>
 <br>
 
-NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android**, **HTML5** / **WebGL** and **Windows** Unreal apps.
+NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android**, **HTML5** / **Web** and **Windows** Unreal apps.
 NexPlayer will be available for **more platforms** soon, stay tuned.
 
 
