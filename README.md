@@ -1,6 +1,6 @@
 
 <h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/unreal-player-sdk-demo/" target="_blank"><img  src="https://github.com/NexPlayer/NexPlayer_Unity_Plugin/blob/master/resources/Button Demo_2.png" width="23%" height="10%" alt="Unity video player" align="right"></img></a>
-<a align=right href="https://nexplayersdk.com/unreal-player-sdk-demo/" target="_blank"><img src="Source/Images/Logo_Unreal_Github_NV3.png" width="100%" height="100%" ></a>
+<a align=right href="https://nexplayersdk.com/unreal-player-sdk-demo/" target="_blank"><img src="Source/Images/last.png" width="100%" height="100%" ></a>
 </p></h1>
 </br>
 
@@ -8,7 +8,7 @@
 </p>
 <br>
 
-NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android**, **HTML5** / **Web** and **Windows** Unreal apps.
+NexPlayer™ for Unreal Engine is a video streaming plugin that enables **HLS & DASH streaming** on **Android**, iOS, **HTML5** / **Web** and **Windows** apps and games.
 NexPlayer will be available for **more platforms** soon, stay tuned.
 
 
