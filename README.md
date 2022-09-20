@@ -31,9 +31,13 @@ Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Un
 * **[Demo Installation Guide](#demo-installation-guide)**
  
  <br> 
-
+<p align="center"><b>Live streaming inside Unreal games and apps</p>
 <p align="center"><img  src="Source/Gifs/Edited tvshow GIF.gif" width="600px" height="319px" alt="Cube Demo" align="center"></img>
-</p>
+<p align="center"><b>Streaming Amazon IVS inside Unreal Engine</p>
+<p align="center"><img  src="Source/Gifs/unreal_AWS_IVS.gif" width="600px" height="319px" alt="Cube Demo" align="center"></img>
+
+<br>
+
 
 <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal video player plugin allows the introduction of new exciting use cases inside your Unreal games, such as concerts, video items related to the game or new metaverse experiences. </p>
 
