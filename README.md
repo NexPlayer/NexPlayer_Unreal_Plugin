@@ -33,7 +33,7 @@ Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Un
  <br> 
 <p align="center"><b>Live streaming inside Unreal games and apps</p>
 <p align="center"><img  src="Source/Gifs/Edited tvshow GIF.gif" width="600px" height="319px" alt="Cube Demo" align="center"></img>
-<p align="center"><b>Streaming Amazon IVS inside Unreal Engine</p>
+<p align="center"><b>Stream Amazon IVS inside Unreal Engine</p>
 <p align="center"><img  src="Source/Gifs/unreal_AWS_IVS.gif" width="600px" height="319px" alt="Cube Demo" align="center"></img>
 
 <br>
