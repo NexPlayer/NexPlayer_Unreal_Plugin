@@ -39,7 +39,7 @@ Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Un
 
 ## Features
 
-The NexPlayer™ for Unreal Engine video streaming player is developed entirely **in-house**, making it fully customizable to implement any desired functionality. Dont hesitate to contact us if you need specifics features not supported yet.
+The NexPlayer™ for Unreal Engine video streaming player is developed entirely **in-house**, making it fully customizable to implement any desired functionality. Don't hesitate to contact us if you need specifics features not supported yet.
 
 We support the following features:
 
@@ -52,6 +52,9 @@ We support the following features:
      <td>
        <ul>
        <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
+       <li>Amazon IVS</li>
+       <li>Timed Metadata</li>
+       <li>ID3 Tag</li>
        <li>Ad Insertion</li>
        <li>360 Video Playback and Virtual Reality (VR)</li>
        <li>Windows Editor (C++ & Blueprint)</li>
