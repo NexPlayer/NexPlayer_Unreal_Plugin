@@ -39,11 +39,11 @@ Supported UNREAL ENGINE VERSIONS: UE4.22, 4.23, 4.24, 4.25, 4.26, 4.27, & UE5/Un
 <br>
 
 
-<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal video player plugin allows the introduction of new exciting use cases inside your Unreal games, such as concerts, video items related to the game or new metaverse experiences. </p>
+<p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unreal video player plugin enables the introduction of new exciting use cases inside your Unreal games, such as concerts, video items related to the game or new metaverse experiences. </p>
 
 ## Features
 
-The NexPlayer™ for Unreal Engine video streaming player is developed entirely **in-house**, making it fully customizable to implement any desired functionality. Don't hesitate to contact us if you need specifics features not supported yet.
+The NexPlayer™ for Unreal Engine video streaming player is developed entirely **in-house**, making it fully customizable to implement any desired functionality. Don't hesitate to contact us if you need specific features not supported yet.
 
 We support the following features:
 
