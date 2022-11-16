@@ -99,6 +99,15 @@ We support the following features:
 | Android VR  | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: |
 | HTML5  | WebGL 1.0 / WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |
 
+## Supported Unreal Engine Versions
+
+| Platform | 4.22 | 4.23 | 4.24 | 4.25 | 4.26 | 4.27 | 5.0 |
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| 
+| Android  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| iOS  |||||| :heavy_check_mark: ||
+| Windows | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| HTML5  | :heavy_check_mark: | :heavy_check_mark: ||||||
+
 ## Demo Installation Guide
 
 ### 1) Plugin Import
